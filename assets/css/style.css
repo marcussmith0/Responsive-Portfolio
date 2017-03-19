@@ -1,0 +1,693 @@
+.header-area {
+    background-color: white;
+    width: 1366px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+    border-bottom-style: solid;
+    border-color: rgba(49, 30, 30, 0.27);
+    border-bottom-width: thin;
+}
+.name {
+    background-color: #4aaaa5;
+    padding: 25px;
+    width: 140px;
+    text-align: center;
+    color: white;
+    float: left;
+    position: relative;
+    bottom: 20px;
+    left: 230px;
+    font-family: georgia;
+    top: 0px;
+}
+
+.navbar {
+    float: right;
+    position: relative;
+    right: 315px;
+    top: 70px;
+    font-family: Arial;
+    color: #777777;
+
+}
+
+.bottomp {
+
+    clear: both;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    background-color: #666666;
+    top: 750px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+.navbar li { 
+	display: inline; 
+	padding: 20px; 
+}
+
+.container {
+    position: absolute;
+    top: 129px;
+    width: 1366px;
+    border-style-top: solid;
+    border-color: black;
+}
+.aboutMeContainer {
+    width: 475px;
+    position: absolute;
+    left: 40px;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin-top: 30px;
+    left: 220px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+.para {
+
+}
+
+.bottom {
+    clear: both;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    background-color: #666666;
+    top: 670px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+.bottomf {
+    clear: both;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    background-color: #666666;
+    top: 750px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+.connect {
+    position: absolute;
+    float: left;
+    left: 70px;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 750px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+.connect2 {
+    position: absolute;
+    float: left;
+    left: 70px;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 750px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+.icons {
+
+}
+
+.imgClass {
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+
+}
+
+body {
+    background-color: #f1eeee;
+}
+h2 {
+    border-bottom-style: line;
+    border-bottom-width: thin;
+}
+
+.about {
+    color: #4aaaa5;
+    border-bottom-width: medium;
+    border-bottom-style: solid;
+    font-family: georgia;
+    border-bottom-color: rgba(128, 128, 128, 0.4);
+}
+
+.about2 {
+    color: #4aaaa5;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+    font-family: georgia;
+    border-bottom-color: rgba(128, 128, 128, 0.4);
+}
+
+.icons {
+    align-content: center;
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+
+
+a:link {
+    color: #777777;
+}
+
+a:visited {
+    color: #777777;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: blue;
+}
+
+.contact {
+
+}
+
+.contactcontainer {
+    margin: 15px;
+    font-family: arial;
+}
+
+.photocontainer {
+    position: relative;
+    left: 50px;
+
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #4eeee5;
+}
+
+.navr {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.farm {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 265px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.sports {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 430px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.strutters {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    left: 185px
+
+}
+
+.maze {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 265px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    left: 185px
+}
+
+
+@media screen and (max-width: 980px) {
+
+    .aboutMeContainer {
+    width: 230px;
+    position: absolute;
+    left: 40px;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin-top: 30px;
+    left: 220px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+    .imgClass {
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
+
+    .connect {
+    position: absolute;
+    float: left;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 500px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+    .connect2 {
+    position: absolute;
+    float: left;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 500px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+    .navbar {
+    float: right;
+    position: relative;
+    right: 565px;
+    top: 70px;
+    font-family: Arial;
+    color: #777777;
+
+}
+
+    .bottom {
+    clear: both;
+    padding: 50px;
+    text-align: justify;
+    position: relative;
+    background-color: #666666;
+    top: 960px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+.bottomp {
+
+    clear: both;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    background-color: #666666;
+    top: 1000px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+    .sports {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 670px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+    .maze {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 525px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    left: 0px
+}
+
+    .farm {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 385px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+    .strutters {
+    background-color: #4aaaa5;
+    color: white;
+    width: 170px;
+    position: absolute;
+    top: 230px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    left: 0px
+
+}
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .name {
+    background-color: #4aaaa5;
+    padding: 25px;
+    width: 140px;
+    text-align: center;
+    color: white;
+    float: left;
+    position: relative;
+    bottom: 20px;
+    left: 80px;
+    font-family: georgia;
+    top: 0px;
+}
+
+    .navbar {
+    float: right;
+    position: relative;
+    right: 660px;
+    top: 70px;
+    font-family: Arial;
+    color: #777777;
+
+}
+
+        .aboutMeContainer {
+    width: 610px;
+    position: absolute;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin-top: 30px;
+    left: 70px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+         .connect {
+    width: 530px;
+    position: absolute;
+    float: left;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 70px;
+    top: 390px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+        .connect2 {
+    width: 530px;
+    position: absolute;
+    float: left;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 70px;
+    top: 510px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+        .bottom {
+    clear: both;
+    padding: 50px;
+    text-align: justify;
+    position: relative;
+    background-color: #666666;
+    top: 760px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+        .bottomf {
+    clear: both;
+    padding: 50px;
+    text-align: left;
+    position: relative;
+    background-color: #666666;
+    top: 860px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+
+
+
+    
+
+
+
+}
+
+@media screen and (max-width: 640px) {
+    .name {
+    background-color: #4aaaa5;
+    padding: 5px;
+    width: 640px;
+    text-align: center;
+    color: white;
+    float: left;
+    position: relative;
+    bottom: 20px;
+    left: 0px;
+    font-family: georgia;
+    top: 0px;
+}
+
+    .navbar {
+    width: 640px;
+    float: right;
+    position: relative;
+    right: 540px;
+    top: 90px;
+    font-family: Arial;
+    color: #777777;
+
+}
+
+    .header-area {
+    background-color: white;
+    width: 1366px;
+    height: 130px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+    border-bottom-style: solid;
+    border-color: rgba(49, 30, 30, 0.27);
+    border-bottom-width: thin;
+}
+
+    .aboutMeContainer {
+    width: 470px;
+    position: absolute;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin-top: 30px;
+    left: 70px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+        .connect {
+    width: 390px;
+    position: absolute;
+    float: left;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 70px;
+    top: 450px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+    .bottom {
+    clear: both;
+    padding: 50px;
+    text-align: justify;
+    position: relative;
+    background-color: #666666;
+    top: 800px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+    .bottom2 {
+    clear: both;
+    padding: 50px;
+    text-align: justify;
+    position: relative;
+    background-color: #666666;
+    top: 800px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+    .connect2 {
+    width: 390px;
+    position: absolute;
+    float: left;
+    padding: 10px 50px 50px;
+    background-color: white;
+    left: 70px;
+    top: 510px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(49, 30, 30, 0.27);
+}
+
+    .bottomf {
+    clear: both;
+    padding: 50px;
+    text-align: left;
+    position: relative;
+    background-color: #666666;
+    top: 870px;
+    left: -8px;
+    width: 1255px;
+    border-top-style: solid;
+    border-top-width: thick;
+    border-top-color: #4aaaae;
+    color: white;
+
+}
+
+
+
+
+
+
+}
